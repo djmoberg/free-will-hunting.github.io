@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Free Will Hunting
-author: zoidberg
-description: Minimal
+title: "DAT190: Bachelorprosjekt G16"
+author: "D. Moberg, O. Bråten, A. Haji"
+description: "Blog for our bachelor's project."
 lang: en
-timezone: UTC
+timezone: UTC+1
 exclude:
   - README.md
   - LICENSE.txt
