@@ -16,7 +16,7 @@
 title: "DAT190: Bachelorprosjekt G16"
 author: "D. Moberg, O. Bråten, A. Haji"
 description: "Blog for our bachelor's project."
-lang: en
+lang: no
 timezone: UTC+1
 exclude:
   - README.md
